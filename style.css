@@ -4,6 +4,7 @@
 
 
 .col .item-card{ 
+    line-height: 15px;
     padding: 5px;
     background-color: azure;
     border-radius: 25px;
@@ -29,15 +30,18 @@ button .btn-xoxo{
     background-color: #E07C24;
     font-size: 16px;
     width: 100%;
-    padding: 10px 70px;
+    padding: 10px 15px;
     border-radius: 20px;
 }
 .btn-xoxo-1{
     background-color: #FFFFFF;
     color: #333333;
-    padding: 10px 70px;
+    padding: 10px 25px;
     border-radius: 25px;
 }
 i{
     color: #a02929;
+}
+.bg-primary-hdr-ftr{
+    background-color: #120E43;
 }
